@@ -1,0 +1,12 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+numpy
+opencv-python
+torch
+tqdm
+scikit-learn
+albumentations
